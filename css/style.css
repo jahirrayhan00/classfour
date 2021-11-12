@@ -1,0 +1,21 @@
+h1{
+	color: blue;
+}
+.head1{
+	background-color: limegreen;
+}
+.border{
+	border:10px solid red;
+}
+#h1{
+	font-size: 50px;}
+.box {
+	width: 500px;
+	height: 400px;
+	background-color: green;
+}
+.box2{
+	width: 500px;
+	height: 400px;
+	background-color: #c72626;
+}
